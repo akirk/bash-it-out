@@ -1,6 +1,6 @@
-## Bash It Out
+# Bash It Out
 
-Version 
+Version _1.0.0_
 
 A WordPress plugin providing the slovenly with a countdown to pressure them into bashing out that word count.
 
@@ -12,6 +12,10 @@ Your work is auto-saved to draft posts!
 
 ![Fetch friend posts](assets/images/bash-it-out-editor.png)
 
-### TODO
+## Changelog
+
+[View it](CHANGELOG.md)
+
+## TODO
 
 - [ ] Add art to pressure functionality
