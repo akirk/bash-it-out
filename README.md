@@ -1,19 +1,17 @@
 ## Bash It Out
 
-A countdown to pressure you into bashing out that word count.
+Version 
 
-This plugin uses `wp-json`. Please make sure you have pretty permalinks enabled.
+A WordPress plugin providing the slovenly with a countdown to pressure them into bashing out that word count.
 
-https://developer.wordpress.org/rest-api/
+Set a word goal, writing time, how often you want to be nagged and then **bash it out**!
+
+![Fetch friend posts](assets/images/bash-it-out-home.png)
+
+Your work is auto-saved to draft posts! 
+
+![Fetch friend posts](assets/images/bash-it-out-editor.png)
 
 ### TODO
 
-- [x] Create basic new. tagged post when starting, with auto-save using date and time as title
-- [ ] Fix auto save so that we allow the final auto save after pausing, stopping etc
-- [ ] Only run plugin on plugin admin page
-- [ ] Select from existing bash-it-out posts
-- [ ] styling
-- [ ] pressure functionality
-- [ ] custom icon
-- [ ] format autosave timestamp
-- [ ] WordPress version check (min 4.7)
+- [ ] Add art to pressure functionality
